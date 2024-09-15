@@ -9,3 +9,36 @@ logs/
 # Ignore all .log and .tmp files
 *.log
 *.tmp
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Data files (if large or sensitive)
+data/
+
+# Logs
+logs/
+
+# IDE configuration files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
