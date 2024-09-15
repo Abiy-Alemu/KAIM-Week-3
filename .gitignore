@@ -1,0 +1,11 @@
+# Ignore specific files
+secret.txt
+config.yml
+
+# Ignore directories
+build/
+logs/
+
+# Ignore all .log and .tmp files
+*.log
+*.tmp
