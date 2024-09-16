@@ -44,3 +44,5 @@ logs/
 Thumbs.db
 
 !data/*.dvc
+data/**/*.csv
+venv*/
